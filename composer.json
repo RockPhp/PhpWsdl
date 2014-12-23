@@ -1,0 +1,19 @@
+{
+    "name": "rock/phpwsdl",
+    "description": "Xml Tools for php 5.1.6",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andre Nils",
+            "email": "nilzao@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.1.6"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
