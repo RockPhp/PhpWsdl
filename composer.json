@@ -1,6 +1,6 @@
 {
     "name": "rock/phpwsdl",
-    "description": "Xml Tools for php 5.1.6",
+    "description": "PhpWsdl for php 5.1.6",
     "license": "MIT",
     "authors": [
         {
