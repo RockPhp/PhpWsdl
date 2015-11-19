@@ -12,8 +12,6 @@
         "php": ">=5.1.6"
     },
     "autoload": {
-        "psr-0": {
-            "": "src/"
-        }
+        "classmap": ["src"]
     }
 }
